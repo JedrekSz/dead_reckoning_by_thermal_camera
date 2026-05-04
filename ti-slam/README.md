@@ -7,8 +7,7 @@ Projekt implementuje system **TI-SLAM**, którego celem jest estymacja trajektor
 System łączy:
 
 * dane z kamery termowizyjnej,
-* detekcję domknięć pętli (loop closure),
-* optymalizację grafu pozycji (pose graph optimization).
+* dane z IMU
 
 Rozwiązanie pozwala ograniczyć dryf występujący w klasycznej odometrii inercyjnej.
 
