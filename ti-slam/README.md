@@ -17,9 +17,7 @@ Rozwiązanie pozwala ograniczyć dryf występujący w klasycznej odometrii inerc
 ## Główne funkcjonalności
 
 * SLAM oparty na danych termicznych (działa w słabych warunkach oświetleniowych)
-* Detekcja domknięć pętli na podstawie embeddingów
-* Globalna optymalizacja trajektorii (pose graph)
-* Pipeline w Pythonie i MATLABie
+* Pipeline w Pythonie 
 
 ---
 
