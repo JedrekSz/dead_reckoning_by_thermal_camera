@@ -35,3 +35,8 @@ ti-slam/
 ├── robust_pose_graph_optimization.py
 └── README.md
 ```
+
+Projekt bazuje na: https://github.com/risqiutama/ti-slam  
+Autor: Muhamad Risqi Utama Saputra  
+
+Licencja: CC BY 4.0, zmodyfikowany 
